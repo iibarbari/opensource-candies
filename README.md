@@ -111,6 +111,8 @@ Formerly started at [<img src="https://i.postimg.cc/3RKD0YjT/ycombinator-favicon
 
 [<img src="https://plus.google.com/_/favicon?domain=https://getsentry.com/"  height="16" alt="Sentry" /> Sentry](https://getsentry.com/for/open-source/) - [100% Open Source](https://github.com/getsentry/sentry) Crash Reporting - forever free for open source - request needed
 
+[<img src="https://www.webgazer.io/apple-touch-icon.png" height="16" alt="WebGazer" /> WebGazer](https://www.webgazer.io/for/open-source) - Uptime and cron job monitoring with hosted status pages - free for open source - email request needed
+
 ### Code Review
 
 [<img src="https://www.codacy.com/favicon.ico" alt="Codacy" height="16" /> Codacy](https://www.codacy.com/) - Automated Code Review for Scala, JavaScript, PHP, Python and CSS - free for open source
